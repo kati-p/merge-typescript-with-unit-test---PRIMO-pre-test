@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "jest": "^29.7.0",
+    "ts-node": "^10.9.2"
+  },
+  "name": "merge-typescript-with-unit-test-primo-pre-test",
+  "version": "1.0.0",
+  "main": "merge.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
